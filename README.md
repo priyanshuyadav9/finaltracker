@@ -4,7 +4,7 @@
 1. **Clone the repository:**  
    Use the command:  
    ```bash
-   git clone https://github.com/YOUR_USERNAME/finaltracker.git
+   git clone https://github.com/priyanshuyadav9/finaltracker.git
    ```  
 2. **Install dependencies:**  
    Navigate to the cloned directory and run:  
